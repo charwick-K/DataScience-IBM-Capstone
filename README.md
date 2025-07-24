@@ -57,6 +57,3 @@ Developed using:
 - [Dash by Plotly](https://dash.plotly.com/)
 - [SpaceX launch dataset](https://www.kaggle.com/datasets)
 
----
-
-Would you like help adding screenshots or deploying this dashboard online?
